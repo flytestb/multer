@@ -27,7 +27,7 @@
     "fs-temp": "^2.0.1",
     "has-own-property": "^2.0.0",
     "on-finished": "^2.3.0",
-    "stream-file-type": "^0.6.1",
+    "stream-file-type": "0.4.0",
     "type-is": "^1.6.18"
   },
   "devDependencies": {
